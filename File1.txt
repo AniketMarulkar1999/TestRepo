@@ -1,3 +1,0 @@
-This is File1.txt
-Change1
-Change2
