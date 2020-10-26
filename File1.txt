@@ -1,5 +1,9 @@
 This is File1.txt
 Change 1
 Change 2
+<<<<<<< HEAD
 test rebase
 some change by team mate
+=======
+test rebase
+>>>>>>> 697e355... Space added between Chnage2 in File1 and some text added to test rebase in idea branch
